@@ -9,19 +9,6 @@ This project leverages the power of AI to generate stunning images using the Cli
 - Customizable text prompts for generating diverse images
 - Supports various output formats
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd your-repo
-   ```
-3. Install the required dependencies:
-   ```sh
-   npm install
-   ```
 
 ## Usage
 1. Get your Clipdrop API key from [Clipdrop](https://clipdrop.co/)
@@ -33,7 +20,7 @@ This project leverages the power of AI to generate stunning images using the Cli
    ```sh
    npm start
    ```
-4. Access the application in your browser at `http://localhost:3000`
+4. Access the application in your browser at `http://localhost:5173`
 
 ## Configuration
 You can modify the `config.js` file to change parameters such as:
